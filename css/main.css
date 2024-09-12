@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+.dive_bir{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    margin: 50px;
+    border: 3px solid black;
+    padding: 20px;
+}
+.dive_ikki{
+    max-width: 300px;
+    height: 200px;
+    background-color: blue;
+    margin: 50px;
+}
+.dive_uch{
+    min-width: 300px;
+    height: 200px;
+    background-color: chartreuse;
+}
